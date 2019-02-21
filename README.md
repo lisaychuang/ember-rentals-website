@@ -1,7 +1,13 @@
 # super-retals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Super Rentals website built with [Emberjs Tutorial](https://guides.emberjs.com/release/tutorial/ember-cli/) with these features:
+
+- Show rentals on the home page
+- Link to information about the company
+- Link to contact information
+- List the available rentals
+- Filter the list of rentals by city
+- Show more details for a selected rental
 
 ## Prerequisites
 
@@ -15,7 +21,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd super-retals`
+* `cd ember-rentals-website`
 * `npm install`
 
 ## Running / Development
